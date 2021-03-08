@@ -1,4 +1,4 @@
-_**This repo is work in progress**_
+_**Sanches312**_
 
 # Domain-Driven Hexagon
 
